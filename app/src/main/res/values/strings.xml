@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zeiterfassung</string>
+    <string name="timer_notification_channel">Laufende Arbeitszeit</string>
+    <string name="timer_notification_title">Arbeitszeit läuft</string>
+    <string name="timer_notification_duration">Bisherige Dauer: %1$s</string>
+    <string name="stop">Stopp</string>
+</resources>
